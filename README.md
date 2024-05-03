@@ -1,2 +1,0 @@
-# gatsby-cms
-gatsby-cms
