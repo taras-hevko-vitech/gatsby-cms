@@ -52,6 +52,7 @@ module.exports = {
     },
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
+    `@contentful/gatsby-transformer-contentful-richtext`,
     {
       resolve: `gatsby-plugin-feed`,
       options: {
